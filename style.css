@@ -17,4 +17,5 @@ p {
 
 div {
     text-align: center;
+    place-items: center;
 }
